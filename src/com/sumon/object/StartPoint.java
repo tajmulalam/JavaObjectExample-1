@@ -12,11 +12,7 @@ public class StartPoint {
 		
 		
 		Person aPerson=new Person("Karim","Rahman","Badsha");
-		aPerson.setPersonAddress(address);
-//		aPerson.setFirstName("Karim");
-//		aPerson.setMiddleName("Rahman");
-//		aPerson.setLastName("Badsha");
-//		
+		
 		System.out.println(aPerson.getPersonAddress().getFullAddres());
 		System.out.println();
 		
